@@ -5,3 +5,7 @@
 ![scatterplot](https://user-images.githubusercontent.com/5617255/61582229-6eb39e80-ab41-11e9-9840-59861d58ba6e.png)
 ![landingpage](https://user-images.githubusercontent.com/5617255/61582252-ca7e2780-ab41-11e9-9907-7414fbf1da7b.png)
 
+// products
+![fyi image](https://user-images.githubusercontent.com/5617255/86319169-4be4a200-bc4d-11ea-8d85-afab00a48137.png)
+
+
