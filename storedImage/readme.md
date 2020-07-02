@@ -7,5 +7,6 @@
 
 
 ![fyi-containsaffiliate-links-image](https://user-images.githubusercontent.com/5617255/86319169-4be4a200-bc4d-11ea-8d85-afab00a48137.png)
+![affiliate-link-timer](https://user-images.githubusercontent.com/5617255/86319399-e349f500-bc4d-11ea-8a40-b024ace23123.png)
 
 
